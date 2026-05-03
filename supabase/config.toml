@@ -1,0 +1,7 @@
+project_id = "jplfeutrkmfsmxsfknjb"
+
+[functions.shopify-search]
+verify_jwt = false
+
+[functions.ai-chat]
+verify_jwt = false
